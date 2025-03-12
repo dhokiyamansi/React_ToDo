@@ -21,5 +21,4 @@ A simple and interactive **To-Do List** application built using **React.js**, **
 ### Steps to Set Up the Project
 
 1. **Clone the repository**:
-   ```bash
- git clone https://github.com/dhokiyamansi/React_ToDo.git
+   ```bash git clone https://github.com/dhokiyamansi/React_ToDo.git
